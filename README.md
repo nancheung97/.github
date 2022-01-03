@@ -6,7 +6,7 @@
 
 - 🔭 我目前正在进行Git Proxy及Mybatis Plus 、HuTool等工具的开源工作
 - 🌱 我目前正在学习：☕Java   🐍Python   ☸️Domain-Driven Design 以及一切 🤣
-- 🥅 2021 年目标：为开源项目做出更多贡献
+- 🥅 2022 年目标：为开源项目做出更多贡献
 - ⚡ 有趣的事实：我会客制化键盘、OpenWRT，还是一个摄影者
 - 💬 如果有问题，请随意与我交流。
 
