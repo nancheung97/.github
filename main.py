@@ -12,9 +12,9 @@ def main():
     with open (os.path.join(os.getcwd(), "README.md"), 'r', encoding='utf-8') as f:
         readme_md_content = f.read()
 
-    print(insert_info)
+    print(new_str)
 
-    new_readme_md_content = re.sub(r'😄(.|\n)*😄', insert_info, readme_md_content)
+    new_readme_md_content = re.sub(r'😄(.|\n)*😄', new_str, readme_md_content)
 
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
