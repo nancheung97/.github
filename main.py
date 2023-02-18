@@ -18,5 +18,14 @@ def main():
 
     with open (os.path.join(os.getcwd(), "README.md"), 'w', encoding='utf-8') as f:
         f.write(new_readme_md_content)
+        
+    # 获取profile README.md内容
+    with open (os.path.join(os.getcwd(), "profile/README.md"), 'r', encoding='utf-8') as f:
+        readme_md_content = f.read()
+
+    new_readme_md_content = re.sub(r'😄(.|\n)*😄', new_str, readme_md_content)
+
+    with open (os.path.join(os.getcwd(), "profile/README.md"), 'w', encoding='utf-8') as f:
+        f.write(new_readme_md_content)
 
 main()
