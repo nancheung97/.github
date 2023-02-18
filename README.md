@@ -17,7 +17,7 @@
 
 ## 😄2023-02-18😄
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nancheung97&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&locale=cn">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nancheung&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&locale=cn">
 
 ### 📢 语言与框架
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=007396&labelColor=fff)](#)
